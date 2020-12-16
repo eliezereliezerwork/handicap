@@ -5,13 +5,13 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>עורך דין דיני עבודה</title>
+        <title>עורך דין נכות כללית</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main>
         <h1 className="title">
-        צור קשר <a href="https://segelstein.com/%d7%93%d7%99%d7%a0%d7%99-%d7%a2%d7%91%d7%95%d7%93%d7%94/">דיני עבודה</a>
+        צור קשר <a href=" https://segelstein.com/%d7%a0%d7%9b%d7%95%d7%aa-%d7%9b%d7%9c%d7%9c%d7%99%d7%aa/">נכות כללית</a>
         </h1>
 
         <p className="description">
@@ -19,35 +19,35 @@ export default function Home() {
         </p>
 
         <div className="grid">
-          <a href="https://segelstein.com/%d7%93%d7%99%d7%a0%d7%99-%d7%a2%d7%91%d7%95%d7%93%d7%94/" className="card">
-            <h3>דיני עבודה &rarr;</h3>
+          <a href=" https://segelstein.com/%d7%a0%d7%9b%d7%95%d7%aa-%d7%9b%d7%9c%d7%9c%d7%99%d7%aa/" className="card">
+            <h3>נכות כללית &rarr;</h3>
             <p>אם זה קרה לך , תתבע. אל תוותר, אל תכעס, תתבע. צור קשר עם עורך דין </p>
           </a>
 
-          <a href="https://segelstein.com/%d7%93%d7%99%d7%a0%d7%99-%d7%a2%d7%91%d7%95%d7%93%d7%94/" className="card">
+          <a href=" https://segelstein.com/%d7%a0%d7%9b%d7%95%d7%aa-%d7%9b%d7%9c%d7%9c%d7%99%d7%aa/" className="card">
             <h3>צור קשר &rarr;</h3>
-            <p>עורך דין דיני עבודה</p>
+            <p>עורך דין נכות כללית</p>
           </a>
 
           <a
-            href="https://segelstein.com/%d7%93%d7%99%d7%a0%d7%99-%d7%a2%d7%91%d7%95%d7%93%d7%94/"
+            href=" https://segelstein.com/%d7%a0%d7%9b%d7%95%d7%aa-%d7%9b%d7%9c%d7%9c%d7%99%d7%aa/"
             className="card"
           >
-            <h3>דיני עבודה &rarr;</h3>
-            <p>עורך דין לדיני עבודה, עוד דיני עבודה, עורך דין דיני עבודה</p>
+            <h3>נכות כללית &rarr;</h3>
+            <p>עורך דין לנכות כללית, עוד נכות כללית, עורך דין נכות כללית</p>
           </a>
 
           <a
-            href="https://segelstein.com/%d7%93%d7%99%d7%a0%d7%99-%d7%a2%d7%91%d7%95%d7%93%d7%94/"
+            href=" https://segelstein.com/%d7%a0%d7%9b%d7%95%d7%aa-%d7%9b%d7%9c%d7%9c%d7%99%d7%aa/"
             className="card"
           >
-            <h3>דיני עבודה &rarr;</h3>
+            <h3>נכות כללית &rarr;</h3>
             <p>
               אל תצא פראייר תתטבע את המעסיק שלך, יש חוקים פה.
             </p>
           </a>
           <a
-            href="https://segelstein.com/%d7%93%d7%99%d7%a0%d7%99-%d7%a2%d7%91%d7%95%d7%93%d7%94/"
+            href=" https://segelstein.com/%d7%a0%d7%9b%d7%95%d7%aa-%d7%9b%d7%9c%d7%9c%d7%99%d7%aa/"
             className="card"
           ></a>
         </div>
@@ -63,7 +63,7 @@ export default function Home() {
 
       <footer>
         <a
-          href="https://segelstein.com/%d7%93%d7%99%d7%a0%d7%99-%d7%a2%d7%91%d7%95%d7%93%d7%94/"
+          href=" https://segelstein.com/%d7%a0%d7%9b%d7%95%d7%aa-%d7%9b%d7%9c%d7%9c%d7%99%d7%aa/"
           target="_blank"
           rel="noopener noreferrer"
         >
